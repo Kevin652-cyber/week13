@@ -35,6 +35,10 @@ button {
     background-color: #dad1d1;
     cursor: pointer;
 }
+button:hover {
+    background-color: #4a90e2;
+    color: white;
+}
 main {
     display: flex;
     gap: 40px;
